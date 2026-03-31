@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Corporate Incentive Travel | Travel With Sang</title>
+
+<style>
+body {margin:0;font-family:Arial;color:#333;}
+header {
+background:url('https://images.unsplash.com/photo-1523906834658-6e24ef2386f9') center/cover no-repeat;
+height:70vh;color:white;display:flex;flex-direction:column;
+justify-content:center;align-items:center;text-align:center;
+}
+header h1 {font-size:45px;margin:0;}
+header p {font-size:20px;margin:10px 0 20px;}
+
+section {padding:60px 20px;max-width:1100px;margin:auto;}
+h2 {text-align:center;margin-bottom:30px;}
+
+.grid {
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+gap:20px;
+}
+
+.card {
+border:1px solid #ddd;
+padding:20px;
+border-radius:10px;
+text-align:center;
+}
+
+.btn {
+background:#25D366;color:white;padding:15px 25px;
+text-decoration:none;font-size:18px;border-radius:5px;
+}
+
+footer {
+background:#111;color:white;text-align:center;padding:30px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Corporate Incentive Travel in Europe</h1>
+<p>Designing meaningful experiences for teams, partners & clients</p>
+<a class="btn" href="https://wa.me/31685533598">Request Proposal</a>
+</header>
+
+<section>
+<h2>What We Do</h2>
+<p style="text-align:center;">
+We design and operate tailor-made incentive travel programs across Europe.  
+From small executive groups to large corporate teams, we create experiences that inspire, reward and connect people.
+</p>
+</section>
+
+<section>
+<h2>Our Services</h2>
+<div class="grid">
+
+<div class="card">
+<h3>🏢 Incentive Programs</h3>
+<p>Reward your employees and partners with unforgettable European experiences.</p>
+</div>
+
+<div class="card">
+<h3>🤝 Team Building</h3>
+<p>Creative activities designed to strengthen team connection.</p>
+</div>
+
+<div class="card">
+<h3>🎯 Corporate Events</h3>
+<p>Meetings, gala dinners, cultural experiences and exclusive access events.</p>
+</div>
+
+</div>
+</section>
+
+<section>
+<h2>Why Work With Us?</h2>
+<div class="grid">
+
+<div class="card">✔️ Europe-based operator</div>
+<div class="card">✔️ Deep understanding of Asian & European clients</div>
+<div class="card">✔️ Flexible & customized solutions</div>
+<div class="card">✔️ End-to-end execution</div>
+
+</div>
+</section>
+
+<section>
+<h2>Sample Programs</h2>
+<div class="grid">
+
+<div class="card">
+<h3>🇳🇱 Netherlands Experience</h3>
+<p>Amsterdam canal cruise, windmills, cultural immersion.</p>
+</div>
+
+<div class="card">
+<h3>🇧🇪 Belgium Discovery</h3>
+<p>Bruges heritage, Antwerp art, Belgian gastronomy.</p>
+</div>
+
+<div class="card">
+<h3>🇪🇺 Multi-country Tour</h3>
+<p>Combine 2–3 countries for a full European experience.</p>
+</div>
+
+</div>
+</section>
+
+<section>
+<h2>How It Works</h2>
+<div class="grid">
+
+<div class="card">1️⃣ Share your goals & budget</div>
+<div class="card">2️⃣ We design your program</div>
+<div class="card">3️⃣ You approve & relax</div>
+<div class="card">4️⃣ We deliver the experience</div>
+
+</div>
+</section>
+
+<section style="text-align:center;">
+<h2>Let’s Build Your Next Incentive Trip</h2>
+<p>Tell us about your team, and we’ll create a program that delivers real impact.</p>
+<a class="btn" href="https://wa.me/31685533598">Chat on WhatsApp</a>
+</section>
+
+<footer>
+<p>© 2026 Travel With Sang</p>
+<p>Email: your@email.com</p>
+</footer>
+
+</body>
+</html>
